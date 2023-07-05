@@ -1,3 +1,12 @@
+# Audio Manager
+
+---
+
+<aside>
+💡 An rts camera solution for all kind of top-down view projects.
+
+</aside>
+
 # Overview: <b>BCam Tool</b>
 
 That tool is a complete RTS Camera solution for all kind of projects with keyboard and mouse controls.
